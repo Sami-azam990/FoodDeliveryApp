@@ -1,12 +1,10 @@
 # FoodDeliveryApp
 Build food delivery app with react native
 
-<h1>HomeScreen</h1>
-![picture (3)](https://github.com/Sami-azam990/FoodDeliveryApp/assets/109718592/b8b479a9-d210-4635-b9d4-170860a577e3)
-<h1>ResturantScreen</h1>
-![picture (2)](https://github.com/Sami-azam990/FoodDeliveryApp/assets/109718592/2a8713b3-aca1-4932-a7d0-e46625a9bddb)
-<h1>CartScreen</h1>
-![picture (1)](https://github.com/Sami-azam990/FoodDeliveryApp/assets/109718592/8befc98a-3918-4623-b6a3-67d762cb54d2)
+![capture1](https://github.com/Usama-0/FoodDeliveryApp/assets/109718592/1f1f52d6-618b-4f59-8037-6c14f05c3292)
+![capture2](https://github.com/Usama-0/FoodDeliveryApp/assets/109718592/67d1254e-412b-4494-a1ca-cbfb8b5e6d2d)
+![capture3](https://github.com/Usama-0/FoodDeliveryApp/assets/109718592/66ad79d2-27b6-4ec6-8f1a-3bdb22572f51)
+![capture4](https://github.com/Usama-0/FoodDeliveryApp/assets/109718592/027cfff6-e9fa-41e5-8e87-184367ee38d8)
 
 ## Get Started
 
